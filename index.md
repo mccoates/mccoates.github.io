@@ -15,6 +15,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 * Statistical genetics
 * Bayesian methods
 * Applications to public health, medicine, and biology
+
 <!---
 ## Papers
 
