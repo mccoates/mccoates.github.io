@@ -4,9 +4,9 @@ layout: default
 
 # About Me
 
-Welcome to my research page! I'm a PhD student in Statistics at [Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
+Welcome to my research page! I'm a PhD student in Biostatistics at the [University of Washington](http://biostat.washington.edu/).
 
-Before joining CMU, I studied Math and Statistics at the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/). I have also been fortunate enough to collaborate with scientists from [Adobe Research](https://research.adobe.com/) and [SickKids](https://www.sickkids.ca/).
+Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at the [Harvard University](oeb.harvard.edu/), with a language citation in Spanish. I also worked as a research associate at the [Institute for Genomic Medicine](igm.columbia.edu) at Columbia University
 
 ## Research interests
 I am broadly interested in Statistics and Machine Learning with a current focus on:

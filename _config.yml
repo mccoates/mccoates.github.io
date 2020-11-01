@@ -1,5 +1,5 @@
 title: Charles J. Wolock 
-url: "https://ian.waudbysmith.com"
+url: "cwolock.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -19,6 +19,6 @@ nav:
    link: "index"
  - name: "Contact"
    link: "contact"
- - name: "CV2"
-   link: "iws_cv.pdf"
+ - name: "CV"
+   link: "cjw_cv.pdf"
 
