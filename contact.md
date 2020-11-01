@@ -3,11 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: **ianws** *at* **cmu** *fullstop* **edu**
+* Email: **cwolock** *at* **uw** *fullstop* **edu**
 
 ---
 
 ## Social
 
-1. [GitHub](https://github.com/wannabesmith) and [GitLab](https://gitlab.com/wannabesmith)
-2. [LinkedIn](https://linkedin.com/in/iwaudbysmith)
+1. [GitHub](https://github.com/cwolock)
+2. [LinkedIn](https://www.linkedin.com/in/charles-wolock-918974121/)

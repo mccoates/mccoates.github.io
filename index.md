@@ -6,15 +6,16 @@ layout: default
 
 Welcome to my research page! I'm a PhD student in Biostatistics at the [University of Washington](http://biostat.washington.edu/).
 
-Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at the [Harvard University](oeb.harvard.edu/), with a language citation in Spanish. I also worked as a research associate at the [Institute for Genomic Medicine](igm.columbia.edu) at Columbia University
+Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at the [Harvard University](http://oeb.harvard.edu/), with a language citation in Spanish. I also worked as a research associate at the [Institute for Genomic Medicine](http://igm.columbia.edu) at Columbia University
 
 ## Research interests
-I am broadly interested in Statistics and Machine Learning with a current focus on:
-* Sequential analysis,
-* Causal inference from observational and experimental data,
-* Semiparametric and nonparametric methodology, and
-* Applications to public health, policy, and medicine.
-
+I am broadly interested in statistics and biostatistics with a current focus on:
+* Decision theory
+* Missing data
+* Statistical genetics
+* Bayesian methods
+* Applications to public health, medicine, and biology
+<!---
 ## Papers
 
 ### Theory & Methodology
@@ -35,3 +36,4 @@ I am broadly interested in Statistics and Machine Learning with a current focus 
 2. [Sentiment in nursing notes as an indicator of out-of-hospital mortality in intensive care patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198687)\\
 	I. Waudby-Smith, N. Tran, J. A. Dubin, J. Lee\\
 	PLoS one (2018)
+-->
