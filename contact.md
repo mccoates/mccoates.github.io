@@ -9,5 +9,6 @@ is_contact: true
 
 ## Social
 
-1. [GitHub](https://github.com/cwolock)
-2. [LinkedIn](https://www.linkedin.com/in/charles-wolock-918974121/)
+1. [Google Scholar](https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en) 
+2. [GitHub](https://github.com/cwolock)
+3. [LinkedIn](https://www.linkedin.com/in/charles-wolock-918974121/)
