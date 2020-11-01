@@ -4,6 +4,8 @@ layout: default
 
 # About Me
 
+ass="profile-picture" src="prof_pic.jpg">
+
 Welcome to my research page! I'm a PhD student in Biostatistics at the [University of Washington](http://biostat.washington.edu/).
 
 Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at the [Harvard University](http://oeb.harvard.edu/), with a language citation in Spanish. I also worked as a research associate at the [Institute for Genomic Medicine](http://igm.columbia.edu) at Columbia University
