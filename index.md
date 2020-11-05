@@ -6,11 +6,7 @@ layout: default
 ![](prof_pic.jpg )
 -->
 
-![test image size](prof_pic.jpg){:height="50%" width="50%"}
-
-<!---
-<img src="prof_pic.jpg" width="10">
---->
+<img src="prof_pic.jpg" width="100">
 
 # About Me
 
