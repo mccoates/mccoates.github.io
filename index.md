@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="prof_pic.jpg">
+<img class="profile-picture" src="prof_pic.jpg">
 
 # About Me
 
