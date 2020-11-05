@@ -4,7 +4,11 @@ layout: default
 
 # About Me
 
+<!---
 <img class="profile-picture" src="prof_pic.jpg">
+-->
+
+![alt text](prof_pic.jpg "Title")
 
 Welcome to my research page! I'm a PhD student in Biostatistics at the [University of Washington](http://biostat.washington.edu/).
 
