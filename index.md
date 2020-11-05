@@ -6,7 +6,11 @@ layout: default
 ![](prof_pic.jpg )
 -->
 
+![](prof_pic.jpg | width=10)
+
+<!---
 <img src="prof_pic.jpg" width="10">
+--->
 
 # About Me
 
