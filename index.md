@@ -10,7 +10,7 @@ Welcome to my research page! I'm a PhD student in Biostatistics at the [Universi
 
 Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at [Harvard University](http://oeb.harvard.edu/), with a language citation in Spanish. I was a research associate at the [Institute for Genomic Medicine](http://igm.columbia.edu) at Columbia University.
 
-I currently work with Dr. Lurdes Inoue, exploring the connections between Bayesian and frequentist approaches to dynamic treatment regimes. My collaborative projects include work with Dr. Bruce Weir and Dr. Sam Wasser, adapting forensic genetic techniques to combat elephant poaching.
+I currently work with Dr. Lurdes Inoue, exploring the connections between Bayesian and frequentist approaches to dynamic treatment regimes. My collaborative projects include work with Dr. Bruce Weir and Dr. Sam Wasser, adapting forensic genetic techniques to combat elephant poaching. My research is supported by an NSF Graduate Research Fellowship.
 
 ## Research interests
 I am broadly interested in statistics and biostatistics with a current focus on:
