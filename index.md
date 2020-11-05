@@ -6,7 +6,7 @@ layout: default
 ![](prof_pic.jpg )
 -->
 
-<img src="prof_pic.jpg" width="100"/>
+<img src="prof_pic.jpg" width="10">
 
 # About Me
 
