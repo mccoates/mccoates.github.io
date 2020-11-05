@@ -37,11 +37,18 @@
         font-style: italic;
     }
     .profile-picture {
-        width: 40%;
+        width: 50%;
         position: relative;
-        /*margin: -10px 0 0 15px;*/
         float: right;
-        /*border-radius: 0%;*/
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
     }
     img {
         text-align: left;
