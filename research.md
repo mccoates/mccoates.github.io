@@ -8,6 +8,8 @@ layout: default
 
 ## Genomic medicine
 
+<img style="float:right", src="collapsing_qq.png">
+
 I'm interested in developing improved methods for rare variant association studies. Genetic association analyses with rare variants tend to suffer from low power and inflated type I error. I aim to leverage biologically relevant genomic information in order to efficiently pinpoint genetic signal. 
 
 1. Raghavan N.S., Brickman A.M., Andrew H., Manly J.J., Schupf N., Lantigua R., The Alzheimer’s Disease Sequencing Project, **Wolock C.J.**, Kamalakaran S., Petrovski S., Tosto G., Vardarajan B.N., Goldstein D.B., Mayeux R. Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease. *Annals of Clinical and Translational Neurology* 5(7): 832-842, 2018.
