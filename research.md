@@ -8,6 +8,8 @@ layout: default
 
 ## Genomic medicine
 
+I'm interested in developing improved methods for rare variant association studies. Genetic association analyses with rare variants tend to suffer from low power and inflated type I error. I aim to leverage biologically relevant genomic information in order to efficiently pinpoint genetic signal. 
+
 1. Raghavan N.S., Brickman A.M., Andrew H., Manly J.J., Schupf N., Lantigua R., The Alzheimer’s Disease Sequencing Project, **Wolock C.J.**, Kamalakaran S., Petrovski S., Tosto G., Vardarajan B.N., Goldstein D.B., Mayeux R. Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease. *Annals of Clinical and Translational Neurology* 5(7): 832-842, 2018.
 
 2. Hayeck T.J, Stong N., **Wolock C.J.**, Copeland B., Kamalakaran S., Goldstein D.B., Allen A.S. Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance. *American Journal of Human Genetics* 104(2): 299-309, 2019.
@@ -18,9 +20,11 @@ layout: default
    
  5. Cameron-Christie S., **Wolock C.J.**, Groopman E., Petrovski S., Kamalakaran S., Povysil G., Zhang M., Fleckner J., March R.E., Gelfman S., Marasa M., Li Y., Sanna-Cherchi S., Kiryluk K., Allen A.S., Fellström B., Haefliger C., Platt A., Goldstein D.B., Gharavi A. Exome-based rare-variant analyses in chronic kidney disease. *Journal of the American Society of Nephrology* 30(6):1109-1122, 2019.
 
-6. Ma C.J, **Wolock C.J.**, Stong N., Nagasaki T., Lee W., Goldstein D.B., Allikmets R. Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease. *Investigative Ophthalmology \& Visual Science* 60(9): 2935-2935, 2019.
+6. Ma C.J, **Wolock C.J.**, Stong N., Nagasaki T., Lee W., Goldstein D.B., Allikmets R. Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease. *Investigative Ophthalmology & Visual Science* 60(9): 2935-2935, 2019.
 
 ## Miscellaneous
+
+As an undergraduate, I was involved in several projects, including work on carnivorous pitcher plant microbiomes and iron redox during the late Proterozoic era. 
 
 1. Sperling E.A., **Wolock C.J.**, Morgan A.S., Gill B.C., Kunzmann M., Halverson G.P., Macdonald F.A., Knoll A.H., Johnston D.T.  Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation. *Nature* 523: 451--454, 2015.
 
