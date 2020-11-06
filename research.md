@@ -8,7 +8,7 @@ layout: default
 
 ## Genomic medicine
 
-<img style="float:right", src="collapsing_qq.png">
+<img src = "collapsing_qq.png" style="float:right">
 
 I'm interested in developing improved methods for rare variant association studies. Genetic association analyses with rare variants tend to suffer from low power and inflated type I error. I aim to leverage biologically relevant genomic information in order to efficiently pinpoint genetic signal. 
 
