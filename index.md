@@ -6,12 +6,9 @@ layout: default
 
 **cwolock** *at* **uw** *fullstop* **edu**
 
-Department of Biostatistics
-
-Box 357232
-
-University of Washington
-
+Department of Biostatistics\\
+Box 357232\\
+University of Washington\\
 Seattle, WA 98195
 
 * [Google Scholar](https://scholar.google.com/citations?user=TPHQuKkAAAAJ&

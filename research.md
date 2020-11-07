@@ -23,7 +23,8 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 I'm interested in developing improved methods for rare variant association studies. Genetic association analyses with rare variants tend to suffer from low power and inflated type I error. I aim to leverage biologically relevant genomic information in order to efficiently pinpoint genetic signal. 
 -->
 
-1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease. *Annals of Clinical and Translational Neurology* (2018).
+1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. [Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6043775/) *Annals of Clinical and Translational Neurology* (2018).
+
 
 2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance. *American Journal of Human Genetics* (2019)
 
