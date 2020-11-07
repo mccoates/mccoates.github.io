@@ -13,10 +13,6 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ## Papers
 
-### Dynamic treatment regimes
-
-### Forensic genetics
-
 ### Genomic medicine
 
 <!--- 
