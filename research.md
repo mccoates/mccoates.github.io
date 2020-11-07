@@ -26,15 +26,16 @@ I'm interested in developing improved methods for rare variant association studi
 1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. [Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6043775/) *Annals of Clinical and Translational Neurology* (2018).
 
 
-2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance. *American Journal of Human Genetics* (2019)
+2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. [Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance.](https://www.sciencedirect.com/science/article/pii/S0002929718305032) *American Journal of Human Genetics* (2019)
 
-3. **Wolock CJ**, Stong N, Ma F, Nagasaki T, Lee W, Tsang SH, Kamalakaran S, Goldstein DB, Allikmets R. A case-control collapsing analysis identifies retinal dystrophy genes associated with ophthalmic disease in patients with no pathogenic *ABCA4* mutations. *Genetics in Medicine* (2019). 
+3. **Wolock CJ**, Stong N, Ma F, Nagasaki T, Lee W, Tsang SH, Kamalakaran S, Goldstein DB, Allikmets R. [A case-control collapsing analysis identifies retinal dystrophy genes associated with ophthalmic disease in patients with no pathogenic *ABCA4* mutations.](https://www.nature.com/articles/s41436-019-0495-0) *Genetics in Medicine* (2019). 
 
- 4. Gelfman S, Dugger SA, Moreno CAM, Ren Z, **Wolock CJ**, Shneider NA, Phatnani H, Cirulli ET, Lasseigne BN, Harris T, Maniatis T, Rouleau GA, Brown RH, Gitler AD, Myers RM, Petrovski S, Allen AS, Harms MB, Goldstein DB. A new approach for rare variation collapsing on functional protein domains implicates specific genic regions in ALS. *Genome Research* (2019). 
+ 4. Gelfman S, Dugger SA, Moreno CAM, Ren Z, **Wolock CJ**, Shneider NA, Phatnani H, Cirulli ET, Lasseigne BN, Harris T, Maniatis T, Rouleau GA, Brown RH, Gitler AD, Myers RM, Petrovski S, Allen AS, Harms MB, Goldstein DB. [A new approach for rare variation collapsing on functional protein domains implicates specific genic regions in ALS.](https://pubmed.ncbi.nlm.nih.gov/30940688/) *Genome Research* (2019). 
+
    
- 5. Cameron-Christie S, **Wolock CJ**, Groopman E, Petrovski S, Kamalakaran S, Povysil G, Zhang M, Fleckner J, March RE, Gelfman S, Marasa M, Li Y, Sanna-Cherchi S, Kiryluk K, Allen AS, Fellström B, Haefliger C, Platt A, Goldstein DB, Gharavi A. Exome-based rare-variant analyses in chronic kidney disease. *Journal of the American Society of Nephrology* (2019).
+ 5. Cameron-Christie S, **Wolock CJ**, Groopman E, Petrovski S, Kamalakaran S, Povysil G, Zhang M, Fleckner J, March RE, Gelfman S, Marasa M, Li Y, Sanna-Cherchi S, Kiryluk K, Allen AS, Fellström B, Haefliger C, Platt A, Goldstein DB, Gharavi A. [Exome-based rare-variant analyses in chronic kidney disease.](https://jasn.asnjournals.org/content/30/6/1109) *Journal of the American Society of Nephrology* (2019).
 
-6. Ma CJ, **Wolock CJ**, Stong N, Nagasaki T, Lee W, Goldstein DB, Allikmets R. Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease. *Investigative Ophthalmology & Visual Science* (2019).
+6. Ma CJ, **Wolock CJ**, Stong N, Nagasaki T, Lee W, Goldstein DB, Allikmets R. [Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease.](https://iovs.arvojournals.org/article.aspx?articleid=2742934) *Investigative Ophthalmology & Visual Science* (2019).
 
 ### Miscellaneous
 
@@ -42,9 +43,9 @@ I'm interested in developing improved methods for rare variant association studi
 As an undergraduate, I was involved in several projects, including work on carnivorous pitcher plant microbiomes and iron redox during the late Proterozoic era. 
 -->
 
-1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT.  Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation. *Nature* (2015).
+1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://www.nature.com/articles/nature14589) *Nature* (2015).
 
-2. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. Convergence between the microcosms of Southeast Asian and North American pitcher plants. *eLife* (2018). 
+2. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. [Convergence between the microcosms of Southeast Asian and North American pitcher plants.](https://elifesciences.org/articles/36741) *eLife* (2018). 
 
 <!---
 ## Papers
