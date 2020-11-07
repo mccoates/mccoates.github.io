@@ -3,15 +3,29 @@ layout: default
 is_research: true
 ---
 
-## Dynamic treatment regimes
+## Research interests
+I am broadly interested in statistics and biostatistics with a current focus on:
+* Decision theory
+* Missing data
+* Statistical genetics
+* Bayesian methods
+* Applications to public health, medicine, and biology
 
-## Forensic genetics
+## Papers
 
-## Genomic medicine
+### Dynamic treatment regimes
 
-<img src = "collapsing_qq.png" style="float:right;width:50%">
+### Forensic genetics
 
+### Genomic medicine
+
+<!--- 
+<img src = "collapsing_qq.png" style="float:right;width:50%"> 
+-->
+
+<!--- 
 I'm interested in developing improved methods for rare variant association studies. Genetic association analyses with rare variants tend to suffer from low power and inflated type I error. I aim to leverage biologically relevant genomic information in order to efficiently pinpoint genetic signal. 
+-->
 
 1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease. *Annals of Clinical and Translational Neurology* (2018).
 
@@ -25,9 +39,11 @@ I'm interested in developing improved methods for rare variant association studi
 
 6. Ma CJ, **Wolock CJ**, Stong N, Nagasaki T, Lee W, Goldstein DB, Allikmets R. Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease. *Investigative Ophthalmology & Visual Science* (2019).
 
-## Miscellaneous
+### Miscellaneous
 
+<!---
 As an undergraduate, I was involved in several projects, including work on carnivorous pitcher plant microbiomes and iron redox during the late Proterozoic era. 
+-->
 
 1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT.  Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation. *Nature* (2015).
 
