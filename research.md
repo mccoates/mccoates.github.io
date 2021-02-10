@@ -37,6 +37,8 @@ I'm interested in developing improved methods for rare variant association studi
 
 6. Ma CJ, **Wolock CJ**, Stong N, Nagasaki T, Lee W, Goldstein DB, Allikmets R. [Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease.](https://iovs.arvojournals.org/article.aspx?articleid=2742934) *Investigative Ophthalmology & Visual Science* (2019).
 
+7. Eade K, Gantner ML, Hostyk JA, Nagasaki T, Giles S, Fallon R, Harkins-Perry S, Baldini M, Lim EW, Scheppke L, Dorrell MI, Cai C, Baugh EH, **Wolock CJ**, Wallace M, Berlow RB, Goldstein DB, Metallo CM, Friedlander M, Allikmets R. Serine biosynthesis defect due to haploinsufficiency of PHDGH causes retinal disease. To appear in *Nature Metabolism*. 
+
 ### Miscellaneous
 
 <!---
