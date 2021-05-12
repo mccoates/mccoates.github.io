@@ -33,7 +33,7 @@ layout: default
 
 <div class="row">
         <div class="first-column">
-            <img class="featurette-image img-responsive" src="prof_pic.jpg" >
+            <img class="profile-picture", src="prof_pic.jpg" >
         </div>
         <div class="second-column">
             <h2>About Me</h2>
@@ -43,13 +43,6 @@ layout: default
 
 
 
----
-
----
----
----
----
----
 <!---
 <img class="profile-picture" src="prof_pic.jpg">
 
