@@ -25,3 +25,5 @@ Welcome to my research page! I'm a PhD student in Biostatistics at the [Universi
 Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at [Harvard University](http://oeb.harvard.edu/), with a language citation in Spanish. I was a research associate at the [Institute for Genomic Medicine](http://igm.columbia.edu) at Columbia University.
 
 I currently work with [Dr. Noah Simon](https://faculty.washington.edu/nrsimon/) and [Dr. Marco Carone](http://faculty.washington.edu/mcarone/about.html), developing nonparametric estimation methods for variable importance in the context of survival analysis. My collaborative projects include work with [Dr. Bruce Weir](https://www.biostat.washington.edu/people/bruce-weir) and [Dr. Sam Wasser](https://www.biology.washington.edu/people/profile/samuel-k-wasser), adapting forensic genetic techniques to combat elephant poaching. My research is supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+
+---

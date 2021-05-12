@@ -5,10 +5,8 @@ is_research: true
 
 ## Research interests
 I am broadly interested in statistics and biostatistics with a current focus on:
-* Decision theory
-* Missing data
-* Statistical genetics
-* Bayesian methods
+* Nonparametric statistics
+* Survival analysis
 * Applications to public health, medicine, and biology
 
 ## Papers
@@ -71,3 +69,5 @@ As an undergraduate, I was involved in several projects, including work on carni
 	I. Waudby-Smith, N. Tran, J. A. Dubin, J. Lee\\
 	PLoS one (2018)
 -->
+
+---

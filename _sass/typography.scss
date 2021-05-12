@@ -45,7 +45,7 @@
             padding: 10px;
             margin: 0;
         }
-        @media (max-width: 450px) {
+        @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
             }
