@@ -18,6 +18,8 @@ hl=en)
 * [Student webpage](https://www.biostat.washington.edu/people/charles-wolo
 ck)
 
+---
+
 Welcome to my research page! I'm a PhD student in Biostatistics at the [University of Washington](http://biostat.washington.edu/).
 
 Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at [Harvard University](http://oeb.harvard.edu/), with a language citation in Spanish. I was a research associate at the [Institute for Genomic Medicine](http://igm.columbia.edu) at Columbia University.
