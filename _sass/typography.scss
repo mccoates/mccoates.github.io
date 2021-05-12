@@ -42,7 +42,7 @@
         margin: -5px 0 0 5px;
         float: left;
         p & {
-            padding: 0;
+            padding: 10px;
             margin: 0;
         }
         @media (max-width: $small-width) {
