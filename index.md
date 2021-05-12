@@ -2,6 +2,55 @@
 layout: default
 ---
 
+<style>
+    .first-column {
+    width: 30%;
+    padding: 0 10px 0 0;
+    float: left;
+}
+
+.second-column {
+    width: 66%;
+    padding: 0 10px 0 0;
+    float: right;
+}
+    @media only screen and (max-width: 800px) {
+
+   .first-column {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+    }
+
+    .second-column {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+    }
+    
+}
+</style>
+
+<div class="row">
+        <div class="first-column">
+            <img class="featurette-image img-responsive" src="prof_pic.jpg" >
+        </div>
+        <div class="second-column">
+            <h2>About Me</h2>
+            <p>Blurb here. 
+        </div>
+    </div>
+
+
+
+---
+
+---
+---
+---
+---
+---
+
 <img class="profile-picture" src="prof_pic.jpg">
 
 **cwolock** *at* **uw** *fullstop* **edu**
