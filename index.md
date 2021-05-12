@@ -33,7 +33,7 @@ layout: default
 
 <div class="row">
         <div class="first-column">
-            <img src="prof_pic.jpg" >
+            <img src="prof_pic.jpg" style="width:200px">
         </div>
         <div class="second-column">
             <h2>About Me</h2>
