@@ -33,11 +33,11 @@ layout: default
 
 <div class="row">
         <div class="first-column">
-            <img src="prof_pic.jpg" style="width:200px">
+            <img src="prof_pic.jpg" style="width:250px">
         </div>
         <div class="second-column">
-            <h2>About Me</h2>
-            <p>Blurb here.</p> 
+            <h2>Welcome to my research page!</h2>
+            <p>I'm a PhD student in Biostatistics at the <a href = "http://biostat.washington.edu">Department of Biostatistics</a> at the University of Washington.</p> 
         </div>
     </div>
 
