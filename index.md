@@ -56,11 +56,10 @@ layout: default
 
 
 <div class="row">
-    <h2>Contact/Links</h2>
+    <center><h2>Contact/Links</h2>
 
     <p> cwolock[at]uw[dot]edu
-    </br>
-    </br>
+    <br/>
     <ul>
         <li> <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
         <li> <a href = "https://github.com/cwolock">GitHub</a></li>
@@ -68,6 +67,7 @@ layout: default
     </ul>
     <br>
     </p>
+    </center>
 </div>
 
 
