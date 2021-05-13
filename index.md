@@ -46,13 +46,17 @@ layout: default
             <br/>
             I currently work with <a href = "https://faculty.washington.edu/nrsimon/">Dr. Noah Simon</a> and <a href = "http://faculty.washington.edu/mcarone/about.html">Dr. Marco Carone</a>, 
             developing nonparametric estimation methods for variable importance in the context of survival analysis. My collaborative projects include work with 
-            <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser>Dr. Sam Wasser</a>, 
+            <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser">Dr. Sam Wasser</a>, 
             adapting forensic genetic techniques to combat elephant poaching. My research is supported by an <a href = "https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
             </p> 
         </div>
 </div>
 
+
+
 ---
+
+
 
 <div class="row">
     <center><p class = "lead" style="clear:both;">
