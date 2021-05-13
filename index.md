@@ -52,6 +52,7 @@ layout: default
             <hr>
             <b>Contact/Links</b>
             <br/>
+            <br/>
             cwolock[at]uw[dot]edu
             <ul>
             <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
@@ -63,7 +64,7 @@ layout: default
         </div>
 </div>
 
-
+!<---
 <div class="row">
     <center>
 
@@ -82,7 +83,7 @@ layout: default
     </center>
 </div>
 
-
+-->
 
 <!---
     <center><p class = "lead" style="clear:both;">
