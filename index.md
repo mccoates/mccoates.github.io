@@ -48,6 +48,7 @@ layout: default
             developing nonparametric estimation methods for variable importance in the context of survival analysis. My collaborative projects include work with 
             <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser">Dr. Sam Wasser</a>, 
             adapting forensic genetic techniques to combat elephant poaching. My research is supported by an <a href = "https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
+            <hr>
             </p> 
         </div>
 </div>
@@ -78,9 +79,6 @@ layout: default
 <!---
 <img class="profile-picture" src="prof_pic.jpg">
 --->
-
-<hr>
----
 
 ## Contact/Links
 
