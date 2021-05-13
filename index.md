@@ -34,6 +34,7 @@ layout: default
 <div class="row">
         <div class="first-column">
             <img src="prof_pic.jpg" style="width:250px">
+            
         </div>
         <div class="second-column">
             <h2>Welcome to my research page!</h2>
@@ -49,14 +50,29 @@ layout: default
             <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser">Dr. Sam Wasser</a>, 
             adapting forensic genetic techniques to combat elephant poaching. My research is supported by an <a href = "https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
             <hr>
-            <br/>
-            <br/>
             </p> 
         </div>
 </div>
 
-<!---
+
 <div class="row">
+    <h2 Contact/Links</h2>
+
+    <p> cwolock[at]uw[dot]edu
+    </br>
+    </br>
+    <ul>
+        <li> <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a>
+        <li> <a href = "https://github.com/cwolock">GitHub</a>
+        <li> <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a>
+    </ul>
+    <br>
+    </p>
+</div>
+
+
+
+<!---
     <center><p class = "lead" style="clear:both;">
 
     cwolock[at]uw[dot]edu
@@ -72,16 +88,11 @@ layout: default
     &nbsp;&nbsp;&nbsp;&nbsp;
 
     <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a>
-
-    </p></center>
-</div>
 -->
-
-
 <!---
 <img class="profile-picture" src="prof_pic.jpg">
 --->
-
+<!---
 ## Contact/Links
 
 **cwolock** *at* **uw** *fullstop* **edu**
@@ -98,7 +109,7 @@ hl=en)
 * [Student webpage](https://www.biostat.washington.edu/people/charles-wolo
 ck)
 
----
+-->
 
 <!---
 
