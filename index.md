@@ -79,9 +79,8 @@ layout: default
 <img class="profile-picture" src="prof_pic.jpg">
 --->
 
-
+<hr>
 ---
-
 
 ## Contact/Links
 
