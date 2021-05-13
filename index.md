@@ -52,6 +52,8 @@ layout: default
         </div>
 </div>
 
+---
+
 <div class="row">
     <center><p class = "lead" style="clear:both;">
 
@@ -71,8 +73,6 @@ layout: default
 
     </p></center>
 </div>
-
-* Here is a list
 
 ---
 
