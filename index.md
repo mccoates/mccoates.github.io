@@ -72,7 +72,9 @@ layout: default
     </p></center>
 </div>
 
+* Here is a list
 
+---
 
 <!---
 <img class="profile-picture" src="prof_pic.jpg">
