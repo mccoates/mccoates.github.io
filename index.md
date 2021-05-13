@@ -80,6 +80,8 @@ layout: default
 <img class="profile-picture" src="prof_pic.jpg">
 --->
 
+<p style="text-align: center;">
+
 ## Contact/Links
 
 **cwolock** *at* **uw** *fullstop* **edu**
@@ -95,6 +97,8 @@ hl=en)
 * [LinkedIn](https://www.linkedin.com/in/charles-wolock-918974121/)
 * [Student webpage](https://www.biostat.washington.edu/people/charles-wolo
 ck)
+
+</p>
 
 ---
 
