@@ -52,12 +52,7 @@ layout: default
         </div>
 </div>
 
-
-
----
-
-
-
+<!---
 <div class="row">
     <center><p class = "lead" style="clear:both;">
 
@@ -77,11 +72,14 @@ layout: default
 
     </p></center>
 </div>
+-->
 
----
 
 <!---
 <img class="profile-picture" src="prof_pic.jpg">
+--->
+
+---
 
 **cwolock** *at* **uw** *fullstop* **edu**
 
@@ -98,6 +96,8 @@ hl=en)
 ck)
 
 ---
+
+<!---
 
 Welcome to my research page! I'm a PhD student in Biostatistics at the [University of Washington](http://biostat.washington.edu/).
 
