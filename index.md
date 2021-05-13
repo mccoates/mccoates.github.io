@@ -50,6 +50,15 @@ layout: default
             <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser">Dr. Sam Wasser</a>, 
             adapting forensic genetic techniques to combat elephant poaching. My research is supported by an <a href = "https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
             <hr>
+            <b>Contact/Links</b>
+            <br/>
+            cwolock[at]uw[dot]edu
+            <ul>
+            <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
+            <li><a href = "https://github.com/cwolock">GitHub</a></li>
+            <li><a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a></li>
+            </ul>
+            <hr>
             </p> 
         </div>
 </div>
@@ -60,6 +69,7 @@ layout: default
 
     <p>
     <b>Contact/Links</b> 
+    <br/>
     cwolock[at]uw[dot]edu
     <br/> 
     <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a>
