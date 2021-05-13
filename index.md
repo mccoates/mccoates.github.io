@@ -53,7 +53,9 @@ layout: default
 </div>
 
 <div class="row">
+<p>
 <hr>
+</p>
 </div>
 
 <!---
