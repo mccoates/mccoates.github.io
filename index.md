@@ -56,7 +56,7 @@ layout: default
 
 
 <div class="row">
-    <h2 Contact/Links</h2>
+    <h2>Contact/Links</h2>
 
     <p> cwolock[at]uw[dot]edu
     </br>
