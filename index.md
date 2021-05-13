@@ -81,6 +81,8 @@ layout: default
 
 ---
 
+## Contact/Links
+
 **cwolock** *at* **uw** *fullstop* **edu**
 
 Department of Biostatistics\\
