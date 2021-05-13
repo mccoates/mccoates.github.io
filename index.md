@@ -37,9 +37,40 @@ layout: default
         </div>
         <div class="second-column">
             <h2>Welcome to my research page!</h2>
-            <p>I'm a PhD student in Biostatistics at the <a href = "http://biostat.washington.edu">Department of Biostatistics</a> at the University of Washington.</p> 
+            <p>I'm a PhD student in Biostatistics at the <a href = "http://biostat.washington.edu">Department of Biostatistics</a> at the University of Washington. 
+            </br>
+            </br>
+            Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at <a href = "http://oeb.harvard.edu/">Harvard University</a>, with a language citation in Spanish. 
+            I was a research associate at the <a href = "http://igm.columbia.edu">Institute for Genomic Medicine</a> at Columbia University.
+            </br>
+            </br>
+            I currently work with <a href = "https://faculty.washington.edu/nrsimon/">Dr. Noah Simon</a> and <a href = "http://faculty.washington.edu/mcarone/about.html">Dr. Marco Carone</a>, 
+            developing nonparametric estimation methods for variable importance in the context of survival analysis. My collaborative projects include work with 
+            <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser>Dr. Sam Wasser</a>, 
+            adapting forensic genetic techniques to combat elephant poaching. My research is supported by an <a href = "https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
+            </p> 
         </div>
-    </div>
+</div>
+
+<div class="row">
+    <center><p class = "lead" style="clear:both;">
+
+    cwolock[at]uw[dot]edu
+
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a href = "https://github.com/cwolock">GitHub</a>
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+    <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a>
+
+    </p></center>
+</div>
 
 
 
@@ -68,4 +99,3 @@ Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology a
 
 I currently work with [Dr. Noah Simon](https://faculty.washington.edu/nrsimon/) and [Dr. Marco Carone](http://faculty.washington.edu/mcarone/about.html), developing nonparametric estimation methods for variable importance in the context of survival analysis. My collaborative projects include work with [Dr. Bruce Weir](https://www.biostat.washington.edu/people/bruce-weir) and [Dr. Sam Wasser](https://www.biology.washington.edu/people/profile/samuel-k-wasser), adapting forensic genetic techniques to combat elephant poaching. My research is supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 -->
----
