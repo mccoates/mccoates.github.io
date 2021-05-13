@@ -64,9 +64,9 @@ layout: default
     <br/> 
     <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a>
     <br/>
-    <li> <a href = "https://github.com/cwolock">GitHub</a>
+    <a href = "https://github.com/cwolock">GitHub</a>
     <br/>
-    <li> <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a>
+    <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a>
     <hr>
     </p>
     </center>
