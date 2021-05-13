@@ -56,16 +56,18 @@ layout: default
 
 
 <div class="row">
-    <center><h2>Contact/Links</h2>
+    <center>
 
-    <p> cwolock[at]uw[dot]edu
+    <p>
+    <b>Contact/Links</b> 
+    cwolock[at]uw[dot]edu
+    <br/> 
+    <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a>
     <br/>
-    <ul>
-        <li> <a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
-        <li> <a href = "https://github.com/cwolock">GitHub</a></li>
-        <li> <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a></li>
-    </ul>
-    <br>
+    <li> <a href = "https://github.com/cwolock">GitHub</a>
+    <br/>
+    <li> <a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a>
+    <hr>
     </p>
     </center>
 </div>
