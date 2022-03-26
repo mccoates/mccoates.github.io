@@ -41,14 +41,13 @@ layout: default
             <p>I'm a PhD student in Biostatistics at the <a href = "http://biostat.washington.edu">Department of Biostatistics</a> at the University of Washington. 
             <br/>
             <br/>
-            Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at <a href = "http://oeb.harvard.edu/">Harvard University</a>, with a language citation in Spanish. 
+            Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish. 
             I was a research associate at the <a href = "http://igm.columbia.edu">Institute for Genomic Medicine</a> at Columbia University.
             <br/>
             <br/>
             I am advised by <a href = "https://faculty.washington.edu/nrsimon/">Dr. Noah Simon</a> and <a href = "http://faculty.washington.edu/mcarone/about.html">Dr. Marco Carone</a>. We are 
-            developing nonparametric estimation methods for variable importance in the context of survival analysis. My collaborative projects include work with 
-            <a href = "https://www.biostat.washington.edu/people/bruce-weir">Dr. Bruce Weir</a> and <a href = "https://www.biology.washington.edu/people/profile/samuel-k-wasser">Dr. Sam Wasser</a>, 
-            adapting forensic genetic techniques to combat elephant poaching. My research is supported by an <a href = "https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>. 
+            developing nonparametric methods for survival analysis. My collaborative projects include work in conservation biology, microbial ecology, and genomic medicine.  
+            My research is supported by an NSF Graduate Research Fellowship. 
             <hr>
             <b>Contact/Links</b>
             <br/>

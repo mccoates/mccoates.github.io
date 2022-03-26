@@ -15,10 +15,15 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ---
 
+### Methodology
+
+1. Bansal A, Heagerty PJ, Inoue LYT, Veenstra DL, **Wolock CJ**, Basu A. [A Value of Information Framework for Personalizing the Timing of Surveillance Testing.](https://journals.sagepub.com/doi/abs/10.1177/0272989X211049213) *Medical Decision Making* (2021). 
+
+---
+
 ### Genomic medicine
 
 1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. [Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6043775/) *Annals of Clinical and Translational Neurology* (2018).
-
 
 2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. [Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance.](https://www.sciencedirect.com/science/article/pii/S0002929718305032) *American Journal of Human Genetics* (2019)
 
@@ -41,4 +46,5 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 2. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. [Convergence between the microcosms of Southeast Asian and North American pitcher plants.](https://elifesciences.org/articles/36741) *eLife* (2018). 
 
+3. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
 ---
