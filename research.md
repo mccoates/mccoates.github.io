@@ -41,10 +41,10 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ### Miscellaneous
 
-
 1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://www.nature.com/articles/nature14589) *Nature* (2015).
 
 2. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. [Convergence between the microcosms of Southeast Asian and North American pitcher plants.](https://elifesciences.org/articles/36741) *eLife* (2018). 
 
 3. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
+
 ---
