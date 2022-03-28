@@ -5,7 +5,7 @@ is_research: true
 
 ## Current courses
 
-* **BIOST 311**: Regression Methods in the Health Sciences. University of Washington, Spring 2022. Instructor of record with [Taylor Okonek](taylorokonek.github.io). Course materials [here](https://github.com/cwolock/BIOST311).
+* **BIOST 311**: Regression Methods in the Health Sciences. University of Washington, Spring 2022. Instructor of record with [Taylor Okonek](https://taylorokonek.github.io). Course materials [here](https://github.com/cwolock/BIOST311).
 
 --- 
 
