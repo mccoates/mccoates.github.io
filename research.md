@@ -47,4 +47,5 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 3. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
 
+4. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient. To appear in *Microbial Ecology*. 
 ---
