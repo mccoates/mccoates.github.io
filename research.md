@@ -44,7 +44,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 1. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. [Convergence between the microcosms of Southeast Asian and North American pitcher plants.](https://elifesciences.org/articles/36741) *eLife* (2018). 
 
 
-2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient. To appear in *Microbial Ecology*. 
+2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15993) *Microbial Ecology* (2022). 
 
 ---
 
