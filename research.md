@@ -7,6 +7,7 @@ is_research: true
 I am broadly interested in statistics and biostatistics with a current focus on:
 * Nonparametric statistics
 * Survival analysis
+* Machine learning
 * Applications to public health, medicine, and biology
 
 ---
@@ -15,9 +16,11 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ---
 
-### Methodology
+### Statistical methodology
 
 1. Bansal A, Heagerty PJ, Inoue LYT, Veenstra DL, **Wolock CJ**, Basu A. [A Value of Information Framework for Personalizing the Timing of Surveillance Testing.](https://journals.sagepub.com/doi/abs/10.1177/0272989X211049213) *Medical Decision Making* (2021). 
+
+2. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://arxiv.org/abs/2211.03031)
 
 ---
 
@@ -39,10 +42,9 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 ---
 
-### Microbial Ecology
+### Microbial ecology
 
 1. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. [Convergence between the microcosms of Southeast Asian and North American pitcher plants.](https://elifesciences.org/articles/36741) *eLife* (2018). 
-
 
 2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15993) *Microbial Ecology* (2022). 
 
@@ -51,6 +53,8 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 ### Forensic genetics
 
 1. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
+
+2. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, \textbf{Wolock CJ}, Zhao E, Kingston H, Zolandz T [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) \textit{Forensic Science International: Reports} 6, 2022. 
 
 ---
 
