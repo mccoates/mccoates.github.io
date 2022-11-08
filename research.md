@@ -54,7 +54,7 @@ I am broadly interested in statistics and biostatistics with a current focus on:
 
 1. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
 
-2. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, \textbf{Wolock CJ}, Zhao E, Kingston H, Zolandz T [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) \textit{Forensic Science International: Reports} 6, 2022. 
+2. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) *Forensic Science International: Reports* (2022). 
 
 ---
 
