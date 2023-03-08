@@ -38,25 +38,22 @@ layout: default
         </div>
         <div class="second-column">
             <h2>Welcome to my research page!</h2>
-            <p>I'm a PhD student in Biostatistics at the <a href = "http://biostat.washington.edu">Department of Biostatistics</a> at the University of Washington. 
+            <p>I'm a PhD student in Epidemiology at the <a href = "https://ph.ucla.edu/departments/epidemiology">Department of Epidemiology</a> at UCLA. 
             <br/>
             <br/>
-            Before joining UW Biostatistics, I studied Organismic and Evolutionary Biology at Harvard University, with a language citation in Spanish. 
-            I was a research associate at the <a href = "http://igm.columbia.edu">Institute for Genomic Medicine</a> at Columbia University.
+            Before joining UCLA Epidemiology, I worked as a research associate with the <a href = "https://www.ncdipoverty.org/lancet-commission">Lancet Commission on Reframing Noncommunicable Diseases and Injuries for the Poorest Billion</a> at Harvard Medical School and Brigham and Women's Hospital. My work focused on (1) associations between NCDs and poverty-related risks, (2) estimating potential impact of implementing health system interventions to increase coverage of care, (3) incorporation of equity into priority setting processes for NCDs. Prior to this work, I earned a Master's of Public Health in Global Health Metrics and Evaluation at the University of Washington during a fellowship at the <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (IHME). During my time at IHME, I primarily worked on demographic estimates for the the Global Burden of Disease Study, particularly all-cause mortality. As an undergraduate, I studied Neurobiology at Harvard University, with a minor in Global Health and Health Policy.
             <br/>
             <br/>
-            I am advised by <a href = "https://faculty.washington.edu/nrsimon/">Dr. Noah Simon</a> and <a href = "http://faculty.washington.edu/mcarone/about.html">Dr. Marco Carone</a>. We are 
-            developing nonparametric methods for survival analysis. My collaborative projects include work in conservation biology, microbial ecology, and genomic medicine.  
-            My research is supported by an NSF Graduate Research Fellowship. 
+            I am advised by <a href = "https://ph.ucla.edu/about/faculty-staff-directory/onyebuchi-arah/">Dr. Onyebuchi Arah</a>. 
+
             <hr>
             <b>Contact/Links</b>
             <br/>
             <br/>
-            cwolock[at]uw[dot]edu
+            mmcoates[at]ucla[dot]edu
             <ul>
-            <li><a href = "https://scholar.google.com/citations?user=TPHQuKkAAAAJ&hl=en">Google Scholar</a></li>
-            <li><a href = "https://github.com/cwolock">GitHub</a></li>
-            <li><a href = "https://www.biostat.washington.edu/people/charles-wolock">Student webpage</a></li>
+            <li><a href = "https://scholar.google.com/citations?user=MCCWuuIAAAAJ&hl=en">Google Scholar</a></li>
+            <li><a href = "https://github.com/mccoates">GitHub</a></li>
             </ul>
             <hr>
             </p> 

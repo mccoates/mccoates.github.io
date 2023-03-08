@@ -4,64 +4,86 @@ is_research: true
 ---
 
 ## Research interests
-I am broadly interested in statistics and biostatistics with a current focus on:
-* Nonparametric statistics
-* Survival analysis
-* Machine learning
-* Applications to public health, medicine, and biology
+I am broadly interested in epidemiological methods and causal inference in population health.
+A few areas of interest are:
+* Modeling potential population health impact of interventions and policies
+* Systems science and simulation in relation to causal inference
+* Non-"lifestyle" risk factors for non-communicable diseases
 
 ---
 
-## Papers
+## Selected Papers
 
 ---
 
-### Statistical methodology and software
-
-1. Bansal A, Heagerty PJ, Inoue LYT, Veenstra DL, **Wolock CJ**, Basu A. [A Value of Information Framework for Personalizing the Timing of Surveillance Testing.](https://journals.sagepub.com/doi/abs/10.1177/0272989X211049213) *Medical Decision Making* (2021). 
-
-2. **Wolock CJ**, Gilbert PB, Simon N, Carone M. [A framework for leveraging machine learning tools to estimate personalized survival curves.](https://arxiv.org/abs/2211.03031)
-
-3. Chen YT, Williamson BD, Okonek T, **Wolock CJ**, Spieker AJ, Hee Wai TY, Hughes JP, Emerson SS, Willis AD. [`rigr`: Regression, Inference, and General Data Analysis Tools in R.](https://joss.theoj.org/papers/10.21105/joss.04847) *The Journal of Open Source Software* (2022). 
+#### Complete set of publications: [Google Scholar](https://scholar.google.com/citations?user=MCCWuuIAAAAJ&hl=en)
 
 ---
 
-### Genomic medicine
+### Modeling potential population health impact of interventions and policies
 
-1. Raghavan NS, Brickman AM, Andrew H, Manly JJ, Schupf N, Lantigua R, The Alzheimer's Disease Sequencing Project, **Wolock CJ**, Kamalakaran S, Petrovski S, Tosto G, Vardarajan BN, Goldstein DB, Mayeux R. [Whole exome sequencing in 20,197 individuals identifies ultra-rare SORL1 loss-of-function variants in late-onset Alzheimer’s disease.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6043775/) *Annals of Clinical and Translational Neurology* (2018).
-
-2. Hayeck TJ, Stong N, **Wolock CJ**, Copeland B, Kamalakaran S, Goldstein DB, Allen AS. [Improved Pathogenic Variant Localization using a Hierarchical Model of Sub-regional Intolerance.](https://www.sciencedirect.com/science/article/pii/S0002929718305032) *American Journal of Human Genetics* (2019)
-
-3. **Wolock CJ**, Stong N, Ma F, Nagasaki T, Lee W, Tsang SH, Kamalakaran S, Goldstein DB, Allikmets R. [A case-control collapsing analysis identifies retinal dystrophy genes associated with ophthalmic disease in patients with no pathogenic *ABCA4* mutations.](https://www.nature.com/articles/s41436-019-0495-0) *Genetics in Medicine* (2019). 
-
-4. Gelfman S, Dugger SA, Moreno CAM, Ren Z, **Wolock CJ**, Shneider NA, Phatnani H, Cirulli ET, Lasseigne BN, Harris T, Maniatis T, Rouleau GA, Brown RH, Gitler AD, Myers RM, Petrovski S, Allen AS, Harms MB, Goldstein DB. [A new approach for rare variation collapsing on functional protein domains implicates specific genic regions in ALS.](https://pubmed.ncbi.nlm.nih.gov/30940688/) *Genome Research* (2019). 
-
-5. Cameron-Christie S, **Wolock CJ**, Groopman E, Petrovski S, Kamalakaran S, Povysil G, Zhang M, Fleckner J, March RE, Gelfman S, Marasa M, Li Y, Sanna-Cherchi S, Kiryluk K, Allen AS, Fellström B, Haefliger C, Platt A, Goldstein DB, Gharavi A. [Exome-based rare-variant analyses in chronic kidney disease.](https://jasn.asnjournals.org/content/30/6/1109) *Journal of the American Society of Nephrology* (2019).
-
-6. Ma CJ, **Wolock CJ**, Stong N, Nagasaki T, Lee W, Goldstein DB, Allikmets R. [Case-control collapsing analysis identifies genes mimicking Stargardt/ABCA4 disease.](https://iovs.arvojournals.org/article.aspx?articleid=2742934) *Investigative Ophthalmology & Visual Science* (2019).
-
-7. Eade K, Gantner ML, Hostyk JA, Nagasaki T, Giles S, Fallon R, Harkins-Perry S, Baldini M, Lim EW, Scheppke L, Dorrell MI, Cai C, Baugh EH, **Wolock CJ**, Wallace M, Berlow RB, Goldstein DB, Metallo CM, Friedlander M, Allikmets R. [Serine biosynthesis defect due to haploinsufficiency of PHDGH causes retinal disease.](https://www.nature.com/articles/s42255-021-00361-3) *Nature Metabolism* (2021). 
+1. **Coates MM**, Sliwa K, Watkins DA, et al. (2021). [An investment case for the prevention and management of rheumatic heart disease in the African Union 2021-30: a modelling study.](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(21)00199-6/fulltext) *Lancet Global Health, 9*(7): E957-E966.
 
 ---
 
-### Microbial ecology
+### Non-communicable disease burden and risks in relation to national and/or household income/wealth
 
-1. Bittleston LS, **Wolock CJ**, Bakhtiar EY, Chan XY, Chan KG, Pierce NE, Pringle A. [Convergence between the microcosms of Southeast Asian and North American pitcher plants.](https://elifesciences.org/articles/36741) *eLife* (2018). 
+1. **Coates MM**, Kintu A, Gupta N, et al. (2020). [Burden of noncommunicable disease from infectious risks in 2017: a modelling study.](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30358-2/fulltext) *Lancet Global Health, 8*(12): E1489-E1498. 
 
-2. Heil J, **Wolock CJ**, Pierce NE, Pringle A, Bittleston LS. [Pitcher plant-associated microbial communities differ primarily by host species across a longitudinal gradient.](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15993) *Microbial Ecology* (2022). 
+2. **Coates MM**, Kamanda M, Kintu A et al. (2019). [A comparison of all-cause and cause-specific mortality by household socioeconomic status across seven INDEPTH Network health and demographic surveillance systems in sub-Saharan Africa.](https://www.tandfonline.com/doi/full/10.1080/16549716.2019.1608013) *Global Health Action, 12*(1): 1608013.
 
----
+3. Bukhman G, Mocumbi AO, et al. including **Coates MM**. (2020). [The Lancet NCDI Poverty Commission: bridging a gap in universal health coverage for the poorest billion.](https://www.thelancet.com/article/S0140-6736(20)31907-3/fulltext) *The Lancet, 396*(10256), 991-1044.
 
-### Forensic genetics
-
-1. Wasser SK, **Wolock CJ**, Kuhner MK, Brown JE, Morris C, Horowitz R, Wong A, Fernandez CJ, Otiende MY, Hoareau Y, Kaliszewska ZA, Jeon E, Han KL, Weir BS. [Elephant genotypes reveal the size and connectivity of transnational ivory traffickers.](https://www.nature.com/articles/s41562-021-01267-6) *Nature Human Behaviour* (2022). 
-
-2. Alfieri J, Coble MD, Conroy C, Dahl A, Hares D, Weir BS, **Wolock CJ**, Zhao E, Kingston H, Zolandz T. [A new implementation of a semi-continuous method for DNA mixture interpretation.](https://doi.org/10.1016/j.fsir.2022.100281) *Forensic Science International: Reports* (2022). 
+4. **Coates MM**, Ezzati M, Robles Aguilar G, et al. (2021). [Burden of disease among the world’s poorest billion people: An expert-informed secondary analysis of the Global Burden of Disease estimates.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253073) *PLoS ONE, 16*(8): e0253073.
 
 ---
 
-### Geology
+### Health systems research on non-communicable diseases in countries with low availability of services
 
-1. Sperling EA, **Wolock CJ**, Morgan AS, Gill BC, Kunzmann M, Halverson GP, Macdonald FA, Knoll AH, Johnston DT. [Statistical analysis of iron geochemical data suggests limited late Proterozoic oxygenation.](https://www.nature.com/articles/nature14589) *Nature* (2015).
+1. Gupta N, **Coates MM**, Bekele A, et al. (2020). [Low availability of equipment and medications for non-communicable diseases and injuries at public first-referral level hospitals in eight low-income countries.](https://bmjopen.bmj.com/content/10/10/e038842.long) *BMJ Open, 10*: e038842.
+
+2. Matthews S, **Coates MM**, Bukhman A, et al. (2022). [Health system capacity to manage diabetic ketoacidosis in nine low-income and lower-middle income countries: A cross-sectional analysis of nationally representative survey data.](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00488-6/fulltext) *eClinicalMedicine, 55*: 101759.
+
+3. Adler AJ, Drown L, Boudreaux C, **Coates MM**, Marx A, Akala O, Waqanivalu T, Xu H, & Bukhman G. (2023). [Understanding integrated service delivery: a scoping review of models for noncommunicable disease and mental health interventions in low-and-middle income countries.](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-09072-9) *BMC Health Services Research, 23*(99).
+
+4. Haakenstad A, **Coates M**, Bukhman G, McConnell M, & Verguet S. (2022). [Comparative health systems analysis of differences in the catastrophic health expenditure associated with non-communicable vs communicable diseases among adults in six countries.](https://academic.oup.com/heapol/article/37/9/1107/6640189?login=false) *Health Policy and Planning, 37*(9): 1107-1115.
+
+5. Boudreaux, C, Noble C, **Coates MM**, et al. (2020). [Noncommunicable disease (NCD) strategic plans in low- and lower-middle income Sub-Saharan Africa: framing and policy response.](https://www.tandfonline.com/doi/full/10.1080/16549716.2020.1805165) *Global Health Action, 13*(1): 1805165.
+
+---
+
+### Development of new health metrics or novel use of health metrics
+
+1. Johansson KA, **Coates MM**, Økland J-M, Tsuchiya A, Norheim OF, Haaland Ø. (2020). Health by disease categories.  In Cookson, R, Griffin, S, Norheim, O and Culyer, A. [Distributional Cost-Effectiveness Analysis: A Handbook of Equity-Informative Health Economic Evaluation.](https://academic.oup.com/book/29892)  Oxford University Press.
+
+2.  Johanssen KA, Økland J-M, Skaftun EK, Bukhman G, Norheim OF, **Coates MM**, Haaland Ø. (2020). [Estimating health adjusted age at death (HAAD).](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235955) *PLOS ONE, 15*(7): e0235955.
+
+3.  Bui AL, **Coates MM**, Matthay EC. (2018). [Years of life lost due to encounters with law enforcement in the USA, 2015-2016.](https://jech.bmj.com/content/72/8/715) *Journal of Epidemiology and Community Health, 72*(8): 715-718.
+
+---
+
+### All-cause mortality estimation for the Global Burden of Disease Study and counties in China
+
+1. Wang H, Liddell CA, **Coates MM**, et al. (2014). [Global, regional, and national levels of neonatal, infant, and under-5 mortality during 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60497-9/fulltext) *The Lancet, 384*(9947):957-79.
+
+2. The Global Burden of Disease 2015 Child Mortality Collaborators including **Coates MM**. (2016). [Global, regional, national and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality during 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31575-6/fulltext) *The Lancet, 388*(10053): 1725-1774.
+
+3. Wang Y, Li X, Zhou M, et al., including **Coates MM**. (2016). [Under-5 mortality in 2851 Chinese counties, 1996-2012: a subnational assessment of achieving MDG 4 goals in China.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00554-1/fulltext) *The Lancet, 387*(10015): 273-283.
+
+4. Liang J, Li X, Kang C, et al. including **Coates MM**. (2018). [Maternal mortality ratios in 2852 Chinese counties, 1996-2015, and achievement of Millennium Development Goal 5 in China: a subnational analysis of the Global Burden of Disease Study 2016.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31712-4/fulltext) *The Lancet, 393*(10168): 241-252.
+
+---
+
+### Alcohol-related morbidity and mortality related to the Global Burden of Disease Study
+
+1. GBD 2013 Risk Factors Collaborators, including **Coates MM**. (2015) [Global, regional and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks in 188 countries 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00128-2/fulltext) *The Lancet, 386*(10010): 2287-2323.
+
+2. GBD 2015 Risk Factors Collaborators, including **Coates MM**. (2016). [Global, regional and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks in 195 countries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31679-8/fulltext) *The Lancet, 388*(10053): 1659-1724.
+
+3. Agardh E, Danielsson A-K, Ramstedt M, et al. including **Coates MM**. (2016). [Alcohol-attributed disease burden in four Nordic countries: A comparison using the Global Burden of Disease, Injuries and Risk Factors 2013 study.](https://onlinelibrary.wiley.com/doi/10.1111/add.13430) *Addiction, 111*(10): 1806-13.
+
+4. Kellerborg K, Danielsson A-K, Allebeck P, **Coates MM**, and Agardh E. (2016). [Alcohol attributed disease burden: How methodological advances in the GBD 2013 study have changed the estimates in Sweden.](https://journals.sagepub.com/doi/10.1177/1403494816653512) *Scandinavian Journal of Public Health, 44*(6): 604-610.
+
+5. Rabiee R, Agardh E, **Coates MM**, Allebeck P, Danielsson A-K. (2017). [Alcohol-attributed disease burden and alcohol policies in the BRICS-countries during the years 1990-2013.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5344011/) *J Global Health, 7*(1): 010404.
 
 ---

@@ -1,7 +1,7 @@
-title: Charles J. Wolock 
-url: "https://cwolock.github.io"
-baseurl: "https://cwolock.github.io"
-description: "Charlie's website"
+title: Matthew Coates
+url: "https://mccoates.github.io"
+baseurl: "https://mccoates.github.io"
+description: "Matt's website"
 
 markdown: kramdown
 
@@ -20,8 +20,6 @@ nav:
    link: "index"
  - name: "Research"
    link: "research"
- - name: "Teaching"
-   link: "teaching"
  - name: "CV"
-   link: "cjw_cv.pdf"
+   link: "mc_cv.pdf"
 
