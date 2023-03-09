@@ -38,14 +38,15 @@ layout: default
         </div>
         <div class="second-column">
             <h2>Welcome to my research page!</h2>
-            <p>I'm a PhD student in Epidemiology at the <a href = "https://ph.ucla.edu/departments/epidemiology">Department of Epidemiology</a> at UCLA. 
+            <p>I'm a PhD student in the <a href = "https://ph.ucla.edu/departments/epidemiology">Department of Epidemiology</a> at UCLA, advised by <a href = "https://ph.ucla.edu/about/faculty-staff-directory/onyebuchi-arah/">Dr. Onyebuchi Arah</a>. 
             <br/>
             <br/>
-            Before joining UCLA Epidemiology, I worked as a research associate with the <a href = "https://www.ncdipoverty.org/lancet-commission">Lancet Commission on Reframing Noncommunicable Diseases and Injuries for the Poorest Billion</a> at Harvard Medical School and Brigham and Women's Hospital. My work focused on (1) associations between NCDs and poverty-related risks, (2) estimating potential impact of implementing health system interventions to increase coverage of care, (3) incorporation of equity into priority setting processes for NCDs. Prior to this work, I earned a Master's of Public Health in Global Health Metrics and Evaluation at the University of Washington during a fellowship at the <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (IHME). During my time at IHME, I primarily worked on demographic estimates for the the Global Burden of Disease Study, particularly all-cause mortality. As an undergraduate, I studied Neurobiology at Harvard University, with a minor in Global Health and Health Policy.
+            Before joining UCLA Epidemiology, I worked as a research associate with the <a href = "https://www.ncdipoverty.org/lancet-commission">Lancet Commission on Reframing Noncommunicable Diseases (NCDs) and Injuries for the Poorest Billion</a> at Harvard Medical School and Brigham and Women's Hospital. My work focused on (1) associations between NCDs and poverty-related risks, (2) estimating potential impact of implementing health system interventions to increase coverage of care for NCDs, and (3) incorporation of equity into priority setting processes for NCDs. 
             <br/>
             <br/>
-            I am advised by <a href = "https://ph.ucla.edu/about/faculty-staff-directory/onyebuchi-arah/">Dr. Onyebuchi Arah</a>. 
-
+            I earned a Master's of Public Health in Global Health Metrics and Evaluation at the University of Washington during a fellowship at the <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (IHME). During my time at IHME, I primarily worked on demographic estimates for the the Global Burden of Disease Study, particularly all-cause mortality. As an undergraduate, I studied Neurobiology at Harvard University, with a minor in Global Health and Health Policy.
+            <br/>
+            <br/>
             <hr>
             <b>Contact/Links</b>
             <br/>
