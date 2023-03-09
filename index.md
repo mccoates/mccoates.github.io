@@ -37,7 +37,6 @@ layout: default
             
         </div>
         <div class="second-column">
-            <h2>Welcome to my research page!</h2>
             <p>I'm a PhD student in the <a href = "https://ph.ucla.edu/departments/epidemiology">Department of Epidemiology</a> at UCLA, advised by <a href = "https://ph.ucla.edu/about/faculty-staff-directory/onyebuchi-arah/">Dr. Onyebuchi Arah</a>. 
             <br/>
             <br/>
