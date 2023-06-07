@@ -43,7 +43,7 @@ layout: default
             Before joining UCLA Epidemiology, I worked as a research associate with the <a href = "https://www.ncdipoverty.org/lancet-commission">Lancet Commission on Reframing Noncommunicable Diseases (NCDs) and Injuries for the Poorest Billion</a> at Harvard Medical School and Brigham and Women's Hospital. My work focused on describing associations between NCDs and poverty-related risks, estimating potential impact of implementing health system interventions to increase coverage of care for NCDs in countries with low levels of coverage, and incorporating metrics for equity into priority setting processes for NCD-related policy and implementation. 
             <br/>
             <br/>
-            I earned a Master's of Public Health in Global Health Metrics and Evaluation at the University of Washington during a fellowship at the <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (IHME). During my time at IHME, I primarily worked on demographic estimates for the the Global Burden of Disease Study, particularly all-cause mortality. As an undergraduate, I studied Neurobiology at Harvard University, with a minor in Global Health and Health Policy.
+            I earned a Master's of Public Health in Global Health Metrics and Evaluation at the University of Washington during a fellowship at the <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (IHME). During my time at IHME, I primarily worked on demographic estimates for the Global Burden of Disease Study, particularly all-cause mortality. As an undergraduate, I studied Neurobiology at Harvard University, with a minor in Global Health and Health Policy.
             <br/>
             <br/>
             <hr>
