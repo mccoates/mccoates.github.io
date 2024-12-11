@@ -37,7 +37,7 @@ layout: default
             
         </div>
         <div class="second-column">
-            <p>I'm Matt Coates, a PhD student in the <a href = "https://ph.ucla.edu/departments/epidemiology">Department of Epidemiology</a> at UCLA, advised by <a href = "https://ph.ucla.edu/about/faculty-staff-directory/onyebuchi-arah/">Dr. Onyebuchi Arah</a>. 
+            <p>I'm Matt Coates, a PhD student in the <a href = "https://ph.ucla.edu/departments/epidemiology">Department of Epidemiology</a> at UCLA, advised by <a href = "https://ph.ucla.edu/about/faculty-staff-directory/onyebuchi-arah/">Dr. Onyebuchi Arah</a>. My dissertation work applies graphical tools to causal inference applications in cancer epidemiology and vaccine effectiveness research.  
             <br/>
             <br/>
             Before joining UCLA Epidemiology, I worked as a research associate with the <a href = "https://www.ncdipoverty.org/lancet-commission">Lancet Commission on Reframing Noncommunicable Diseases (NCDs) and Injuries for the Poorest Billion</a> at Harvard Medical School and Brigham and Women's Hospital. My work focused on describing associations between NCDs and poverty-related risks, estimating potential impact of implementing health system interventions to increase coverage of care for NCDs in countries with low levels of coverage, and incorporating metrics for equity into priority setting processes for NCD-related policy and implementation. 
