@@ -6,8 +6,9 @@ is_research: true
 ## Research interests
 I am broadly interested in epidemiological methods and causal inference in population health.
 A few areas of interest are:
+* The use of graphical tools in causal inference to understand bias
 * Modeling potential population health impact of interventions and policies
-* Systems science and simulation in relation to causal inference
+* Health metrics to inform decision-making
 * Non-"lifestyle" risk factors for non-communicable diseases
 
 ---
@@ -26,29 +27,38 @@ A few areas of interest are:
 
 ---
 
-### Non-communicable disease burden and risks in relation to national and/or household income/wealth
+### Non-"lifestyle"-related non-communicable disease risks and burden, globally and in the United States 
 
-1. **Coates MM**, Kintu A, Gupta N, et al. (2020). [Burden of noncommunicable disease from infectious risks in 2017: a modelling study.](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30358-2/fulltext) *Lancet Global Health, 8*(12): E1489-E1498. 
+1. **Coates MM**, Arah OA, Matthews TA, et al. (2024). [Multiple forms of perceived job discrimination and hypertension risk among employed women: Findings from the Sister Study.](https://onlinelibrary.wiley.com/doi/full/10.1002/ajim.23634) *American Journal of Industrial Medicine, 67*(9), 844-856.
 
-2. **Coates MM**, Kamanda M, Kintu A et al. (2019). [A comparison of all-cause and cause-specific mortality by household socioeconomic status across seven INDEPTH Network health and demographic surveillance systems in sub-Saharan Africa.](https://www.tandfonline.com/doi/full/10.1080/16549716.2019.1608013) *Global Health Action, 12*(1): 1608013.
+2. **Coates MM**, Ezzati M, Robles Aguilar G, et al. (2021). [Burden of disease among the world’s poorest billion people: An expert-informed secondary analysis of the Global Burden of Disease estimates.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253073) *PLoS ONE, 16*(8): e0253073.
 
-3. Bukhman G, Mocumbi AO, et al. including **Coates MM**. (2020). [The Lancet NCDI Poverty Commission: bridging a gap in universal health coverage for the poorest billion.](https://www.thelancet.com/article/S0140-6736(20)31907-3/fulltext) *The Lancet, 396*(10256), 991-1044.
+3. **Coates MM**, Kintu A, Gupta N, et al. (2020). [Burden of noncommunicable disease from infectious risks in 2017: a modelling study.](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30358-2/fulltext) *Lancet Global Health, 8*(12): E1489-E1498. 
 
-4. **Coates MM**, Ezzati M, Robles Aguilar G, et al. (2021). [Burden of disease among the world’s poorest billion people: An expert-informed secondary analysis of the Global Burden of Disease estimates.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253073) *PLoS ONE, 16*(8): e0253073.
+4. **Coates MM**, Kamanda M, Kintu A et al. (2019). [A comparison of all-cause and cause-specific mortality by household socioeconomic status across seven INDEPTH Network health and demographic surveillance systems in sub-Saharan Africa.](https://www.tandfonline.com/doi/full/10.1080/16549716.2019.1608013) *Global Health Action, 12*(1): 1608013.
+
+5. Bukhman G, Mocumbi AO, et al. including **Coates MM**. (2020). [The Lancet NCDI Poverty Commission: bridging a gap in universal health coverage for the poorest billion.](https://www.thelancet.com/article/S0140-6736(20)31907-3/fulltext) *The Lancet, 396*(10256), 991-1044.
+
 
 ---
 
 ### Health systems research on non-communicable diseases in countries with low availability of services
 
-1. Gupta N, **Coates MM**, Bekele A, et al. (2020). [Low availability of equipment and medications for non-communicable diseases and injuries at public first-referral level hospitals in eight low-income countries.](https://bmjopen.bmj.com/content/10/10/e038842.long) *BMJ Open, 10*: e038842.
+1. Gomber A, Valeta F, **Coates MM**, et al. (2024). [Feasibility of continuous glucose monitoring in patients with type 1 diabetes at two district hospitals in Neno, Malawi: a randomised controlled trial.](https://bmjopen.bmj.com/content/14/5/e075554.long) *BMJ Open, 14*(5): e075554.
 
-2. Matthews S, **Coates MM**, Bukhman A, et al. (2022). [Health system capacity to manage diabetic ketoacidosis in nine low-income and lower-middle income countries: A cross-sectional analysis of nationally representative survey data.](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00488-6/fulltext) *eClinicalMedicine, 55*: 101759.
+2. Gupta N, **Coates MM**, Bekele A, et al. (2020). [Low availability of equipment and medications for non-communicable diseases and injuries at public first-referral level hospitals in eight low-income countries.](https://bmjopen.bmj.com/content/10/10/e038842.long) *BMJ Open, 10*(10): e038842.
 
-3. Adler AJ, Drown L, Boudreaux C, **Coates MM**, Marx A, Akala O, Waqanivalu T, Xu H, & Bukhman G. (2023). [Understanding integrated service delivery: a scoping review of models for noncommunicable disease and mental health interventions in low-and-middle income countries.](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-09072-9) *BMC Health Services Research, 23*(99).
+3. Matthews S, **Coates MM**, Bukhman A, et al. (2022). [Health system capacity to manage diabetic ketoacidosis in nine low-income and lower-middle income countries: A cross-sectional analysis of nationally representative survey data.](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00488-6/fulltext) *eClinicalMedicine, 55*: 101759.
 
-4. Haakenstad A, **Coates M**, Bukhman G, McConnell M, & Verguet S. (2022). [Comparative health systems analysis of differences in the catastrophic health expenditure associated with non-communicable vs communicable diseases among adults in six countries.](https://academic.oup.com/heapol/article/37/9/1107/6640189?login=false) *Health Policy and Planning, 37*(9): 1107-1115.
+4. Ahmed S, Cao Y, Wang Z, **Coates MM**, et al. (2024). [Service readiness for the management of non-communicable diseases in publicly financed facilities in Malawi: findings from the 2019 Harmonised Health Facility Assessment census survey.](https://bmjopen.bmj.com/content/14/1/e072511.long) *BMJ Open, 14*(1): e072511.
 
-5. Boudreaux, C, Noble C, **Coates MM**, et al. (2020). [Noncommunicable disease (NCD) strategic plans in low- and lower-middle income Sub-Saharan Africa: framing and policy response.](https://www.tandfonline.com/doi/full/10.1080/16549716.2020.1805165) *Global Health Action, 13*(1): 1805165.
+5. Adler AJ, Drown L, Boudreaux C, **Coates MM**, Marx A, Akala O, Waqanivalu T, Xu H, & Bukhman G. (2023). [Understanding integrated service delivery: a scoping review of models for noncommunicable disease and mental health interventions in low-and-middle income countries.](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-023-09072-9) *BMC Health Services Research, 23*(99).
+
+6. Haakenstad A, **Coates M**, Bukhman G, McConnell M, & Verguet S. (2022). [Comparative health systems analysis of differences in the catastrophic health expenditure associated with non-communicable vs communicable diseases among adults in six countries.](https://academic.oup.com/heapol/article/37/9/1107/6640189?login=false) *Health Policy and Planning, 37*(9): 1107-1115.
+
+7. Boudreaux, C, Noble C, **Coates MM**, et al. (2020). [Noncommunicable disease (NCD) strategic plans in low- and lower-middle income Sub-Saharan Africa: framing and policy response.](https://www.tandfonline.com/doi/full/10.1080/16549716.2020.1805165) *Global Health Action, 13*(1): 1805165.
+
+8. Gupta N, Mocumbi A, Arwal SH, et al., including **Coates MM**. (2021). [Prioritizing health-sector interventions for non-communicable diseases and injuries in low- and lower-middle-income countries: National NCDI Poverty Commissions.](https://www.ghspjournal.org/content/9/3/626.short) *Global Health: Science and Practice, 9*(3): 626-639.
 
 ---
 
