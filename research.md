@@ -4,11 +4,12 @@ is_research: true
 ---
 
 ## Research interests
+My research is motivated by the aim of achieving health equity, globally and in the United States.
 I am broadly interested in epidemiological methods and causal inference in population health.
-A few areas of interest are:
-* The use of graphical tools in causal inference to understand bias
+A few specific areas of interest are:
+* The use of graphical tools in causal inference to clarify causal questions and understand bias
 * Modeling potential population health impact of interventions and policies
-* Health metrics to inform decision-making
+* Development and use of health metrics to inform decision-making
 * Non-"lifestyle" risk factors for non-communicable diseases
 
 ---
@@ -39,6 +40,16 @@ A few areas of interest are:
 
 5. Bukhman G, Mocumbi AO, et al. including **Coates MM**. (2020). [The Lancet NCDI Poverty Commission: bridging a gap in universal health coverage for the poorest billion.](https://www.thelancet.com/article/S0140-6736(20)31907-3/fulltext) *The Lancet, 396*(10256), 991-1044.
 
+
+---
+
+### COVID-19 vaccination and treatment during pregnancy
+
+1. Regan AK, Rowe SL, Sullivan SG, **Coates MM**, Munoz FM, & Arah OA. (2025). [COVID-19 antiviral medication use among pregnant and recently pregnant US outpatients.](https://academic.oup.com/cid/article/80/3/512/7998341) *Clinical Infectious Diseases,* ciae580.
+
+2. Rowe SL, Sullivan SG, Munoz FM, **Coates MM**, Arah OA, & Regan AK. (2025). [Uptake of recommended vaccines during pregnancy among publicly- and privately-insured people in the United States, December 2020-September 2022.](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307899) *American Journal of Public Health, 115*(3): 354-363.
+
+3. Rowe SL, Sullivan SG, Munoz FM, **Coates MM**, Agnew B, Arah OA, & Regan AK. (2025). [COVID-19 vaccination during pregnancy and major structural birth defects.](https://publications.aap.org/pediatrics/article/155/4/e2024069778/201254/COVID-19-Vaccination-During-Pregnancy-and-Major) *Pediatrics, 155*(4): e2024069778.
 
 ---
 
